@@ -295,7 +295,7 @@ const DemoProduct = (props) => {
 
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Call Us</h2>
-                  <p className="text-gray-400">Tel: 084965349777</p>
+                  <p className="text-gray-400">Tel: +84965349777</p>
 
                   <div className="mt-5">
                     <h2 className="text-2xl">Send an E-mail</h2>
