@@ -10,6 +10,8 @@ import DemoProduct from "./pages/DemoProduct";
 
 import { useDocTitle } from "./components/CustomHook";
 import ScrollToTop from "./components/ScrollToTop";
+import RemoveBgPrivacy from "./pages/BgRemoverPrivacy";
+import BgRemoverTerms from "./pages/BgRemoverTerms";
 
 function App() {
   useEffect(() => {
@@ -36,6 +38,8 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/get-demo" element={<DemoProduct />} />
+            <Route path="/bgremover/privacy" element={<RemoveBgPrivacy />} />
+            <Route path="/bgremover/terms" element={<BgRemoverTerms />} />
           </Routes>
         </ScrollToTop>
       </Router>
