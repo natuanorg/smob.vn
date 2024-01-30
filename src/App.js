@@ -38,8 +38,8 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/get-demo" element={<DemoProduct />} />
-            <Route path="/bgremover/privacy" element={<RemoveBgPrivacy />} />
-            <Route path="/bgremover/terms" element={<BgRemoverTerms />} />
+            <Route path="/privacy" element={<RemoveBgPrivacy />} />
+            <Route path="/terms" element={<BgRemoverTerms />} />
           </Routes>
         </ScrollToTop>
       </Router>

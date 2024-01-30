@@ -19,13 +19,13 @@ const BgRemoverTerms = () => {
                 terms and conditions are governed by the laws of United States.
               </p>
               <p>
-                Welcome to BGRemover. By accessing this website, you agree to
-                comply with and be bound by the following terms and conditions.
-                BGRemover reserves the right to change these terms and
-                conditions, and the products, services, prices, and programs
-                mentioned on its site at any time, as well as seek all remedies
-                in law and in equity for any violation of these terms and
-                conditions.
+                Welcome to FotoUp - AI Photo Enhancer. By accessing this
+                website, you agree to comply with and be bound by the following
+                terms and conditions. FotoUp - AI Photo Enhancer reserves the
+                right to change these terms and conditions, and the products,
+                services, prices, and programs mentioned on its site at any
+                time, as well as seek all remedies in law and in equity for any
+                violation of these terms and conditions.
               </p>
               <h3>Refund Policy</h3>
               <p>
@@ -33,24 +33,25 @@ const BgRemoverTerms = () => {
                 receipt, you may contact and we will issue a refund.
               </p>
               <p>
-                BGRemover has the right to modify the content of paid plans and
-                charge for the services which are offered for free now. We may
-                notify you of the modification of paid plans at relevant pages
-                before action. You can stop using the services anytime if you
-                disagree.
+                FotoUp - AI Photo Enhancer has the right to modify the content
+                of paid plans and charge for the services which are offered for
+                free now. We may notify you of the modification of paid plans at
+                relevant pages before action. You can stop using the services
+                anytime if you disagree.
               </p>
               <h3>Copyright</h3>
               <p>
                 This website and its materials (including, but not limited to
                 texts, graphics, logos, sounds, and software) are the
-                copyrighted material of BGRemover. All rights reserved.
+                copyrighted material of FotoUp - AI Photo Enhancer. All rights
+                reserved.
               </p>
               <p>
                 No part of this publication may be reproduced, distributed, or
                 transmitted in any form or by any means, including photocopying,
                 recording, or other electronic or mechanical methods, without
-                the prior written permission of BGRemover excluding the
-                following situations:
+                the prior written permission of FotoUp - AI Photo Enhancer
+                excluding the following situations:
               </p>
               <ol>
                 <li>
@@ -65,11 +66,11 @@ const BgRemoverTerms = () => {
               </ol>
               <h3>Indemnity</h3>
               <p>
-                You hereby indemnify to the fullest extent of BGRemover from and
-                against any and all liabilities, costs, demands, causes of
-                action, damages, and expenses (including reasonable attorney’s
-                fees) arising out of or in any way related to your breach of any
-                of the provisions of these Terms.
+                You hereby indemnify to the fullest extent of FotoUp - AI Photo
+                Enhancer from and against any and all liabilities, costs,
+                demands, causes of action, damages, and expenses (including
+                reasonable attorney’s fees) arising out of or in any way related
+                to your breach of any of the provisions of these Terms.
               </p>
               <h3>Disclaimer</h3>
               <p>
@@ -100,7 +101,8 @@ const BgRemoverTerms = () => {
               <h3>Links to Other Websites</h3>
               <p>
                 Our Service may contain links to third-party websites or
-                services that are not owned or controlled by BGRemover.
+                services that are not owned or controlled by FotoUp - AI Photo
+                Enhancer.
               </p>
               <p>
                 We have no control over and assume no responsibility for, the
@@ -116,11 +118,12 @@ const BgRemoverTerms = () => {
               </p>
               <h3>Download Software</h3>
               <p>
-                BGRemover makes certain software products available via the
-                BGRemover website. Although you are free to download any
-                software presented there, you are not allowed to reproduce or
-                redistribute it. The license for the software is governed by the
-                laws of China and the laws of your country.
+                FotoUp - AI Photo Enhancer makes certain software products
+                available via the FotoUp - AI Photo Enhancer website. Although
+                you are free to download any software presented there, you are
+                not allowed to reproduce or redistribute it. The license for the
+                software is governed by the laws of China and the laws of your
+                country.
               </p>
               <h3>Feedback</h3>
               <p>

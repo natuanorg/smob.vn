@@ -21,26 +21,28 @@ const BgRemoverPrivacy = () => {
               </p>
               <br />
               <p>
-                BGRemover fully respects your privacy. This policy covers the
-                processing of personal data by BGRemover, which is committed to
-                protecting the privacy of your personal information whilst
-                striving to provide the very best user experience. We want our
-                websites to be safe and enjoyable for everyone.
+                FotoUp - AI Photo Enhancer fully respects your privacy. This
+                policy covers the processing of personal data by FotoUp - AI
+                Photo Enhancer, which is committed to protecting the privacy of
+                your personal information whilst striving to provide the very
+                best user experience. We want our websites to be safe and
+                enjoyable for everyone.
               </p>
               <p>
-                The operations of BGRemover are in accordance with the European
-                Union’s General Data Protection Regulation (GDPR), effective May
-                25, 2018. BGRemover has made the GDPR a priority, and we are and
-                have always been fully aligned with the regulation’s intended
-                result: the protection of your privacy and personal data.
+                The operations of FotoUp - AI Photo Enhancer are in accordance
+                with the European Union’s General Data Protection Regulation
+                (GDPR), effective May 25, 2018. FotoUp - AI Photo Enhancer has
+                made the GDPR a priority, and we are and have always been fully
+                aligned with the regulation’s intended result: the protection of
+                your privacy and personal data.
               </p>
               <p>
                 <h3>1. Data Controller and Data Protection Officer</h3>
               </p>
               <p>
-                The Data Controller is BGRemover, based on DigitalOcean, LLC..
-                For any requests regarding the processing of your personal data,
-                please email us at{" "}
+                The Data Controller is FotoUp - AI Photo Enhancer, based on
+                DigitalOcean, LLC.. For any requests regarding the processing of
+                your personal data, please email us at{" "}
                 <a href="mailto:catbuituyetvoi@gmail.com">
                   <span class="underline">catbuituyetvoi@gmail.com</span>
                 </a>
@@ -782,7 +784,8 @@ const BgRemoverPrivacy = () => {
               </ol>
               <p>
                 If you have any other questions about privacy or data protection
-                at BGRemover, you can contact us by sending an email to{" "}
+                at FotoUp - AI Photo Enhancer, you can contact us by sending an
+                email to{" "}
                 <a href="mailto:catbuituyetvoi@gmail.com">
                   <span class="underline">catbuituyetvoi@gmail.com</span>
                 </a>
@@ -972,7 +975,8 @@ const BgRemoverPrivacy = () => {
               </ol>
               <p>
                 If you have any other questions about privacy or data protection
-                at BGRemover, you can contact us by sending an email to{" "}
+                at FotoUp - AI Photo Enhancer, you can contact us by sending an
+                email to{" "}
                 <a href="mailto:catbuituyetvoi@gmail.com">
                   <span class="underline">catbuituyetvoi@gmail.com</span>
                 </a>
