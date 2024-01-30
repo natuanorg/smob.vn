@@ -28,7 +28,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("SMOB | Molad e Konsult - Bespoke Web and Mobile Applications");
+  useDocTitle("FotoUp | Molad e Konsult - Bespoke Web and Mobile Applications");
 
   return (
     <>

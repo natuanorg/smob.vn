@@ -41,16 +41,16 @@ const BgRemoverPrivacy = () => {
                 The Data Controller is BGRemover, based on DigitalOcean, LLC..
                 For any requests regarding the processing of your personal data,
                 please email us at{" "}
-                <a href="mailto:privacy@smob.vn">
-                  <span class="underline">privacy@smob.vn</span>
+                <a href="mailto:catbuituyetvoi@gmail.com">
+                  <span class="underline">catbuituyetvoi@gmail.com</span>
                 </a>
                 .
               </p>
               <p>
                 Our Data Protection Officer can be contacted by sending an email
                 to{" "}
-                <a href="mailto:contact@smob.vn">
-                  <span class="underline">contact@smob.vn</span>
+                <a href="mailto:catbuituyetvoi@gmail.com">
+                  <span class="underline">catbuituyetvoi@gmail.com</span>
                 </a>{" "}
                 for any requests relating to the processing of your personal
                 data or this Privacy Policy.
@@ -667,8 +667,8 @@ const BgRemoverPrivacy = () => {
               <p>
                 More information on the appropriate warranties are available for
                 consultation by sending an email to{" "}
-                <a href="mailto:privacy@smob.vn">
-                  <span class="underline">privacy@smob.vn</span>
+                <a href="mailto:catbuituyetvoi@gmail.com">
+                  <span class="underline">catbuituyetvoi@gmail.com</span>
                 </a>
                 .
               </p>
@@ -783,8 +783,8 @@ const BgRemoverPrivacy = () => {
               <p>
                 If you have any other questions about privacy or data protection
                 at BGRemover, you can contact us by sending an email to{" "}
-                <a href="mailto:privacy@smob.vn">
-                  <span class="underline">privacy@smob.vn</span>
+                <a href="mailto:catbuituyetvoi@gmail.com">
+                  <span class="underline">catbuituyetvoi@gmail.com</span>
                 </a>
                 . We may take reasonable steps to verify your identity prior to
                 responding to your request.
@@ -797,8 +797,8 @@ const BgRemoverPrivacy = () => {
                 not knowingly collect personal data from children. If you
                 believe we have received personal data from children under the
                 age of 16, please email us at{" "}
-                <a href="mailto:privacy@smob.vn">
-                  <span class="underline">privacy@smob.vn</span>
+                <a href="mailto:catbuituyetvoi@gmail.com">
+                  <span class="underline">catbuituyetvoi@gmail.com</span>
                 </a>
                 . If we learn that a user is under the age of 16, we will take
                 reasonable steps to delete any processed data and close such
@@ -973,8 +973,8 @@ const BgRemoverPrivacy = () => {
               <p>
                 If you have any other questions about privacy or data protection
                 at BGRemover, you can contact us by sending an email to{" "}
-                <a href="mailto:privacy@smob.vn">
-                  <span class="underline">privacy@smob.vn</span>
+                <a href="mailto:catbuituyetvoi@gmail.com">
+                  <span class="underline">catbuituyetvoi@gmail.com</span>
                 </a>
                 . We may take steps to verify your request by asking you to
                 provide information that matches information we have on file

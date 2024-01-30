@@ -7,7 +7,7 @@ import axios from "axios";
 import Notiflix from "notiflix";
 
 const DemoProduct = (props) => {
-  useDocTitle("SMOB | Molad e Konsult - Demo our products");
+  useDocTitle("FotoUp | Molad e Konsult - Demo our products");
 
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
@@ -299,7 +299,7 @@ const DemoProduct = (props) => {
 
                   <div className="mt-5">
                     <h2 className="text-2xl">Send an E-mail</h2>
-                    <p className="text-gray-400">info@smob.vn</p>
+                    <p className="text-gray-400">catbuituyetvoi@gmail.com</p>
                   </div>
                 </div>
               </div>

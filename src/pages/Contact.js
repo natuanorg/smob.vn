@@ -6,7 +6,7 @@ import axios from "axios";
 import Notiflix from "notiflix";
 
 const Contact = () => {
-  useDocTitle("SMOB | Send us a message");
+  useDocTitle("FotoUp | Send us a message");
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");
@@ -195,11 +195,11 @@ const Contact = () => {
 
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Call Us</h2>
-                  <p className="text-gray-400">Tel: +84965349777</p>
+                  <p className="text-gray-400">Tel: +84934400099</p>
 
                   <div className="mt-5">
                     <h2 className="text-2xl">Send an E-mail</h2>
-                    <p className="text-gray-400">info@smob.vn</p>
+                    <p className="text-gray-400">catbuituyetvoi@gmail.com</p>
                   </div>
                 </div>
               </div>
