@@ -12,6 +12,8 @@ import { useDocTitle } from "./components/CustomHook";
 import ScrollToTop from "./components/ScrollToTop";
 import RemoveBgPrivacy from "./pages/BgRemoverPrivacy";
 import BgRemoverTerms from "./pages/BgRemoverTerms";
+import ArtGeniusTerms from "./pages/AIArtTerms";
+import ArtGeniusPrivacy from "./pages/AIArtPrivacy";
 
 function App() {
   useEffect(() => {
@@ -40,6 +42,9 @@ function App() {
             <Route path="/get-demo" element={<DemoProduct />} />
             <Route path="/bgremover/privacy" element={<RemoveBgPrivacy />} />
             <Route path="/bgremover/terms" element={<BgRemoverTerms />} />
+
+            <Route path="/artgenius/privacy" element={<ArtGeniusPrivacy />} />
+            <Route path="/artgenius/terms" element={<ArtGeniusTerms />} />
           </Routes>
         </ScrollToTop>
       </Router>
