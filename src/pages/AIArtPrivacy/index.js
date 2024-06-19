@@ -3,7 +3,7 @@ import NavBar from "../../components/Navbar/NavBar";
 import Footer from "../../components/Footer";
 import "./index.css";
 
-const ArtGeniusPrivacy = () => {
+const GenArtPrivacy = () => {
   return (
     <>
       <div>
@@ -21,16 +21,16 @@ const ArtGeniusPrivacy = () => {
               </p>
               <br />
               <p>
-                ArtGenius fully respects your privacy. This policy covers the
-                processing of personal data by ArtGenius, which is committed to
+                GenArt fully respects your privacy. This policy covers the
+                processing of personal data by GenArt, which is committed to
                 protecting the privacy of your personal information whilst
                 striving to provide the very best user experience. We want our
                 websites to be safe and enjoyable for everyone.
               </p>
               <p>
-                The operations of ArtGenius are in accordance with the European
+                The operations of GenArt are in accordance with the European
                 Union’s General Data Protection Regulation (GDPR), effective May
-                25, 2018. ArtGenius has made the GDPR a priority, and we are and
+                25, 2018. GenArt has made the GDPR a priority, and we are and
                 have always been fully aligned with the regulation’s intended
                 result: the protection of your privacy and personal data.
               </p>
@@ -38,8 +38,8 @@ const ArtGeniusPrivacy = () => {
                 <h3>1. Data Controller and Data Protection Officer</h3>
               </p>
               <p>
-                The Data Controller is ArtGenius, based on DigitalOcean, LLC..
-                For any requests regarding the processing of your personal data,
+                The Data Controller is GenArt, based on DigitalOcean, LLC.. For
+                any requests regarding the processing of your personal data,
                 please email us at{" "}
                 <a href="mailto:privacy@smob.vn">
                   <span class="underline">privacy@smob.vn</span>
@@ -782,7 +782,7 @@ const ArtGeniusPrivacy = () => {
               </ol>
               <p>
                 If you have any other questions about privacy or data protection
-                at ArtGenius, you can contact us by sending an email to{" "}
+                at GenArt, you can contact us by sending an email to{" "}
                 <a href="mailto:privacy@smob.vn">
                   <span class="underline">privacy@smob.vn</span>
                 </a>
@@ -972,7 +972,7 @@ const ArtGeniusPrivacy = () => {
               </ol>
               <p>
                 If you have any other questions about privacy or data protection
-                at ArtGenius, you can contact us by sending an email to{" "}
+                at GenArt, you can contact us by sending an email to{" "}
                 <a href="mailto:privacy@smob.vn">
                   <span class="underline">privacy@smob.vn</span>
                 </a>
@@ -1014,4 +1014,4 @@ const ArtGeniusPrivacy = () => {
   );
 };
 
-export default ArtGeniusPrivacy;
+export default GenArtPrivacy;

@@ -2,7 +2,7 @@ import React from "react";
 import NavBar from "../../components/Navbar/NavBar";
 import Footer from "../../components/Footer";
 import "./index.css";
-const ArtGeniusTerms = () => {
+const GenArtTerms = () => {
   return (
     <>
       <div>
@@ -19,13 +19,12 @@ const ArtGeniusTerms = () => {
                 terms and conditions are governed by the laws of United States.
               </p>
               <p>
-                Welcome to ArtGenius. By accessing this website, you agree to
+                Welcome to GenArt. By accessing this website, you agree to
                 comply with and be bound by the following terms and conditions.
-                ArtGenius reserves the right to change these terms and
-                conditions, and the products, services, prices, and programs
-                mentioned on its site at any time, as well as seek all remedies
-                in law and in equity for any violation of these terms and
-                conditions.
+                GenArt reserves the right to change these terms and conditions,
+                and the products, services, prices, and programs mentioned on
+                its site at any time, as well as seek all remedies in law and in
+                equity for any violation of these terms and conditions.
               </p>
               <h3>Refund Policy</h3>
               <p>
@@ -33,7 +32,7 @@ const ArtGeniusTerms = () => {
                 receipt, you may contact and we will issue a refund.
               </p>
               <p>
-                ArtGenius has the right to modify the content of paid plans and
+                GenArt has the right to modify the content of paid plans and
                 charge for the services which are offered for free now. We may
                 notify you of the modification of paid plans at relevant pages
                 before action. You can stop using the services anytime if you
@@ -43,14 +42,14 @@ const ArtGeniusTerms = () => {
               <p>
                 This website and its materials (including, but not limited to
                 texts, graphics, logos, sounds, and software) are the
-                copyrighted material of ArtGenius. All rights reserved.
+                copyrighted material of GenArt. All rights reserved.
               </p>
               <p>
                 No part of this publication may be reproduced, distributed, or
                 transmitted in any form or by any means, including photocopying,
                 recording, or other electronic or mechanical methods, without
-                the prior written permission of ArtGenius excluding the
-                following situations:
+                the prior written permission of GenArt excluding the following
+                situations:
               </p>
               <ol>
                 <li>
@@ -65,7 +64,7 @@ const ArtGeniusTerms = () => {
               </ol>
               <h3>Indemnity</h3>
               <p>
-                You hereby indemnify to the fullest extent of ArtGenius from and
+                You hereby indemnify to the fullest extent of GenArt from and
                 against any and all liabilities, costs, demands, causes of
                 action, damages, and expenses (including reasonable attorney’s
                 fees) arising out of or in any way related to your breach of any
@@ -100,7 +99,7 @@ const ArtGeniusTerms = () => {
               <h3>Links to Other Websites</h3>
               <p>
                 Our Service may contain links to third-party websites or
-                services that are not owned or controlled by ArtGenius.
+                services that are not owned or controlled by GenArt.
               </p>
               <p>
                 We have no control over and assume no responsibility for, the
@@ -116,9 +115,9 @@ const ArtGeniusTerms = () => {
               </p>
               <h3>Download Software</h3>
               <p>
-                ArtGenius makes certain software products available via the
-                ArtGenius website. Although you are free to download any
-                software presented there, you are not allowed to reproduce or
+                GenArt makes certain software products available via the GenArt
+                website. Although you are free to download any software
+                presented there, you are not allowed to reproduce or
                 redistribute it. The license for the software is governed by the
                 laws of China and the laws of your country.
               </p>
@@ -140,4 +139,4 @@ const ArtGeniusTerms = () => {
   );
 };
 
-export default ArtGeniusTerms;
+export default GenArtTerms;
