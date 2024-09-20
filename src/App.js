@@ -16,6 +16,8 @@ import ArtGeniusTerms from "./pages/AIArtTerms";
 import ArtGeniusPrivacy from "./pages/AIArtPrivacy";
 import BlurPicPrivacy from "./pages/BlurPicPrivacy";
 import BlurPicTerms from "./pages/BlurPicTerms";
+import Privacy from "./pages/Privacy";
+import Terms from "./pages/Terms";
 
 function App() {
   useEffect(() => {
@@ -50,6 +52,8 @@ function App() {
             <Route path="/genart/terms" element={<ArtGeniusTerms />} />
             <Route path="/blurpic/privacy" element={<BlurPicPrivacy />} />
             <Route path="/blurpic/terms" element={<BlurPicTerms />} />
+            <Route path="/privacy" element={<Privacy />} />
+            <Route path="/terms" element={<Terms />} />
           </Routes>
         </ScrollToTop>
       </Router>
